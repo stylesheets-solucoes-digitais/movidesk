@@ -1,0 +1,19 @@
+{
+    "name": "stylesheets/movidesk",
+    "description": "API da Movidesk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fernando Rodrigues",
+            "email": "fernando.rodrigues@stylesheets.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload" : {
+        "psr-4" : {
+            "Stylesheets\\Movidesk\\" :  "src/"
+        }
+    },
+    "require": {}
+}
