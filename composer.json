@@ -15,5 +15,8 @@
             "Stylesheets\\Movidesk\\" :  "src/"
         }
     },
-    "require": {}
+    "require": {
+        "symfony/http-client": "^5.4",
+        "guzzlehttp/guzzle": "^7.4"
+    }
 }
